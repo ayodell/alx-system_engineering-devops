@@ -1,2 +1,2 @@
-#!/bin/bash
-shell basic repo
+!#/bin/bash
+ls

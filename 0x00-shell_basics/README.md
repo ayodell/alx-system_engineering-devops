@@ -1,3 +1,2 @@
-#!/bin/bash
-0x00-shell_basics read me
+!#/bin/bash
 ls
